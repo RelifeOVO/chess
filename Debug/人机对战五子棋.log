@@ -1,0 +1,66 @@
+﻿生成启动时间为 2023/4/17 22:20:35。
+日志记录详细程度设置为: Normal。     1>项目“E:\project\人机对战五子棋\人机对战五子棋\人机对战五子棋.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\人机对战五子棋.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Chess.cpp
+         Chess.cpp
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(54,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(54,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(55,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(55,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(57,20): warning C4018: “<”: 有符号/无符号不匹配
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(58,21): warning C4018: “<”: 有符号/无符号不匹配
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(68,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(69,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(71,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(72,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(73,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(79,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(90,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(101,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(112,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(131,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(132,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(183,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\project\人机对战五子棋\人机对战五子棋\Debug\人机对战五子棋.exe" /INCREMENTAL /ILK:"Debug\人机对战五子棋.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\project\人机对战五子棋\人机对战五子棋\Debug\人机对战五子棋.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\project\人机对战五子棋\人机对战五子棋\Debug\人机对战五子棋.lib" /MACHINE:X86 Debug\AI.obj
+         Debug\Chess.obj
+         Debug\ChessGame.obj
+         Debug\Man.obj
+         Debug\tools.obj
+         "Debug\源.obj"
+         人机对战五子棋.vcxproj -> E:\project\人机对战五子棋\人机对战五子棋\Debug\人机对战五子棋.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\人机对战五子棋.tlog\unsuccessfulbuild”。
+         正在对“Debug\人机对战五子棋.tlog\人机对战五子棋.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\project\人机对战五子棋\人机对战五子棋\人机对战五子棋.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+       “E:\project\人机对战五子棋\人机对战五子棋\人机对战五子棋.vcxproj”(Build 目标) (1) ->
+       (ClCompile 目标) -> 
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(54,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(54,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(55,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(55,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(57,20): warning C4018: “<”: 有符号/无符号不匹配
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(58,21): warning C4018: “<”: 有符号/无符号不匹配
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(68,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(69,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(71,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(72,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(73,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(79,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(90,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(101,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(112,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(131,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(132,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+         E:\project\人机对战五子棋\人机对战五子棋\Chess.cpp(183,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+
+    18 个警告
+    0 个错误
+
+已用时间 00:00:02.45
